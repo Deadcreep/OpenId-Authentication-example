@@ -1,0 +1,12 @@
+C:\Users\Nurgle\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\OpenIdAuthentication.deps.json
+C:\Users\Nurgle\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\OpenIdAuthentication.runtimeconfig.json
+C:\Users\Nurgle\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\OpenIdAuthentication.runtimeconfig.dev.json
+C:\Users\Nurgle\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\OpenIdAuthentication.dll
+C:\Users\Nurgle\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\OpenIdAuthentication.pdb
+C:\Users\Nurgle\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\OpenIdAuthentication.csprojResolveAssemblyReference.cache
+C:\Users\Nurgle\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\OpenIdAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Nurgle\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Nurgle\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\OpenIdAuthentication.AssemblyInfoInputs.cache
+C:\Users\Nurgle\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\OpenIdAuthentication.AssemblyInfo.cs
+C:\Users\Nurgle\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\OpenIdAuthentication.dll
+C:\Users\Nurgle\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\OpenIdAuthentication.pdb
